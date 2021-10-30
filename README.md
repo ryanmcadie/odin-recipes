@@ -1,0 +1,1 @@
+In this project I will be creating a basic website demonstrating fundamental knowledge of HTML programing and Web Design. I will be using headings, paragraphs, unordered and ordered lists, images and links.
